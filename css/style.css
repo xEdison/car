@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(../assets/images/Fondo1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: brightness(0.1);
+}
